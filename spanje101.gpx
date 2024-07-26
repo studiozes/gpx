@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>POI&apos;s Thomas</name>
+    <desc>Locaties en informatie.</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="0" lon="0">
+    <_data>
+      <index>0</index>
+    </_data>
+    <ele>0</ele>
+    <name>Hotel nacht 1</name>
+    <cmt/>
+    <desc/>
+  </wpt>
+  <wpt lat="43.875509" lon="-1.302917">
+    <_data>
+      <index>1</index>
+    </_data>
+    <ele>0</ele>
+    <name>Hotel Le Fair Play</name>
+    <cmt>Eerste en laatste nacht, en auto met aanhanger parkeren.</cmt>
+    <desc>Eerste en laatste nacht, en auto met aanhanger parkeren.</desc>
+  </wpt>
+  <wpt lat="42.57733751572502" lon="-2.846595972108389">
+    <_data>
+      <index>2</index>
+    </_data>
+    <ele>479.3625735232091</ele>
+    <name>Haro</name>
+    <cmt>Haro is de hoofdstad van La Rioja Alta en een van de meest charmante stadjes in La Rioja Deze stad is befaamd om haar eeuwenoude wijnbouwtradities. Haro heeft talrijke wijnhuizen, zoals CVNE en Muga, om enkele van de beroemdste te noemen, maar ook een mooie historische centrum met enkele interessante monumenten zoals de kerk van San Nicolás. In Haro wordt elk jaar op 29 juni het vermaarde “Wine Battle” gehouden – een festival van nationaal toeristisch belang. Beroemde bodega’s in Haro zijn: C.V.N.E., Gómez Cruzado, López de Heredia, Muga en Roda </cmt>
+    <desc>Haro is de hoofdstad van La Rioja Alta en een van de meest charmante stadjes in La Rioja Deze stad is befaamd om haar eeuwenoude wijnbouwtradities. Haro heeft talrijke wijnhuizen, zoals CVNE en Muga, om enkele van de beroemdste te noemen, maar ook een mooie historische centrum met enkele interessante monumenten zoals de kerk van San Nicolás. In Haro wordt elk jaar op 29 juni het vermaarde “Wine Battle” gehouden – een festival van nationaal toeristisch belang. Beroemde bodega’s in Haro zijn: C.V.N.E., Gómez Cruzado, López de Heredia, Muga en Roda </desc>
+  </wpt>
+  <wpt lat="42.571852" lon="-2.711291">
+    <_data>
+      <index>3</index>
+    </_data>
+    <ele>582.3687444583802</ele>
+    <name>Ábalos</name>
+    <cmt>Dit kleine dorpje ligt te midden van glooiende landschappen op de linkeroever van de rivier de Ebro. Het dorpje heeft smalle straatjes en kloeke huizen. De San Esteban kerk uit de 15e eeuw is uitgeroepen tot nationaal monument en het meest representatieve monument. Dit is een van de meest noordelijk gelegen dorpjes van La Rioja, op slechts 2 minuten rijden van de grens met Baskenland: La Rioja Alavesa. Ook in Ábalos is wijncultuur zeer aanwezig. Er zijn tot 4 wijnmakerijen in het dorp en om het dorp heen vindt u uitgestrekte wijngaarden waar u tussendoor kunt wandelen. Befaamde wijnhuizen in Abalos zijn Solabal en  Solana de Ramírez </cmt>
+    <desc>Dit kleine dorpje ligt te midden van glooiende landschappen op de linkeroever van de rivier de Ebro. Het dorpje heeft smalle straatjes en kloeke huizen. De San Esteban kerk uit de 15e eeuw is uitgeroepen tot nationaal monument en het meest representatieve monument. Dit is een van de meest noordelijk gelegen dorpjes van La Rioja, op slechts 2 minuten rijden van de grens met Baskenland: La Rioja Alavesa. Ook in Ábalos is wijncultuur zeer aanwezig. Er zijn tot 4 wijnmakerijen in het dorp en om het dorp heen vindt u uitgestrekte wijngaarden waar u tussendoor kunt wandelen. Befaamde wijnhuizen in Abalos zijn Solabal en  Solana de Ramírez </desc>
+  </wpt>
+  <wpt lat="42.55298471449427" lon="-2.585149552279944">
+    <_data>
+      <index>4</index>
+    </_data>
+    <ele>-2058.8701714323324</ele>
+    <name>Laguardia</name>
+    <cmt>Dit charmante dorp in de middeleeuwse Rioja Alavesa hoort bij de Pueblos Bonitos de España en is een van de meest toeristische dorpjes in de omgeving. Het is leuk om door prachtige middeleeuwse poorten en binnen de ommuurde oude stad te kuieren en een drankje te nuttigen op de Plaza del Gaitero. Mooie monumenten zijn de Santa María de Los Reyes kerk en La Torre Abacial, vanwaar je een spectaculair panoramisch uitzicht hebt over de wijngaarden. Befaamde wijnhuizen in Laguardia zijn El Fabulista  en Ysios </cmt>
+    <desc>Dit charmante dorp in de middeleeuwse Rioja Alavesa hoort bij de Pueblos Bonitos de España en is een van de meest toeristische dorpjes in de omgeving. Het is leuk om door prachtige middeleeuwse poorten en binnen de ommuurde oude stad te kuieren en een drankje te nuttigen op de Plaza del Gaitero. Mooie monumenten zijn de Santa María de Los Reyes kerk en La Torre Abacial, vanwaar je een spectaculair panoramisch uitzicht hebt over de wijngaarden. Befaamde wijnhuizen in Laguardia zijn El Fabulista  en Ysios </desc>
+  </wpt>
+  <wpt lat="42.515244" lon="-2.618074">
+    <_data>
+      <index>5</index>
+    </_data>
+    <ele>-430.51862071526926</ele>
+    <name>Elciego en Marqués de Riscal </name>
+    <cmt>Dit dorp in de Rioja Alavesa is vooral bekend als de thuisbasis van een van de meest luxueuze hotels van Spanje, Marqués de Riscal ontworpen door de beroemde architect Frank Ghery, vooral bekend van het Güggenheim Museum in Bilbao. Marqués de Riscal heeft ook een wijnkelder die kan worden bezocht. </cmt>
+    <desc>Dit dorp in de Rioja Alavesa is vooral bekend als de thuisbasis van een van de meest luxueuze hotels van Spanje, Marqués de Riscal ontworpen door de beroemde architect Frank Ghery, vooral bekend van het Güggenheim Museum in Bilbao. Marqués de Riscal heeft ook een wijnkelder die kan worden bezocht. </desc>
+  </wpt>
+  <wpt lat="0" lon="0">
+    <_data>
+      <index>6</index>
+    </_data>
+    <ele>0</ele>
+    <name>Briones</name>
+    <cmt>Briones is een prachtig stadje met smalle, geplaveide straatjes, statige paleizen, talrijke met blazoenen versierde huizen en een fraai Plaza Mayor. Vanaf de overblijfselen van de oude muren het fort buiten het stadje hebt u spectaculair zicht op de omgeving en de rivier de Ebro. In het lager gelegen deel van het dorp bevindt zich de parel in de kroon van Briones, het Vivanco Museum van de Wijncultuur. Dit museum wordt beschouwd als het beste wijnmuseum ter wereld, een bezoek mag uiteraard niet ontbreken!</cmt>
+    <desc>Briones is een prachtig stadje met smalle, geplaveide straatjes, statige paleizen, talrijke met blazoenen versierde huizen en een fraai Plaza Mayor. Vanaf de overblijfselen van de oude muren het fort buiten het stadje hebt u spectaculair zicht op de omgeving en de rivier de Ebro. In het lager gelegen deel van het dorp bevindt zich de parel in de kroon van Briones, het Vivanco Museum van de Wijncultuur. Dit museum wordt beschouwd als het beste wijnmuseum ter wereld, een bezoek mag uiteraard niet ontbreken!</desc>
+  </wpt>
+  <wpt lat="42.544312" lon="-2.784844">
+    <_data>
+      <index>7</index>
+    </_data>
+    <ele>6598.814336376947</ele>
+    <name>Briones</name>
+    <cmt>Briones is een prachtig stadje met smalle, geplaveide straatjes, statige paleizen, talrijke met blazoenen versierde huizen en een fraai Plaza Mayor. Vanaf de overblijfselen van de oude muren het fort buiten het stadje hebt u spectaculair zicht op de omgeving en de rivier de Ebro. In het lager gelegen deel van het dorp bevindt zich de parel in de kroon van Briones, het Vivanco Museum van de Wijncultuur. Dit museum wordt beschouwd als het beste wijnmuseum ter wereld, een bezoek mag uiteraard niet ontbreken!</cmt>
+    <desc>Briones is een prachtig stadje met smalle, geplaveide straatjes, statige paleizen, talrijke met blazoenen versierde huizen en een fraai Plaza Mayor. Vanaf de overblijfselen van de oude muren het fort buiten het stadje hebt u spectaculair zicht op de omgeving en de rivier de Ebro. In het lager gelegen deel van het dorp bevindt zich de parel in de kroon van Briones, het Vivanco Museum van de Wijncultuur. Dit museum wordt beschouwd als het beste wijnmuseum ter wereld, een bezoek mag uiteraard niet ontbreken!</desc>
+  </wpt>
+  <wpt lat="42.564283" lon="-2.758776">
+    <_data>
+      <index>8</index>
+    </_data>
+    <ele>1906.872480094637</ele>
+    <name>San Vicente de la Sonsierra</name>
+    <cmt>Charmante dorpje in La Rioja Alta met stenen huizen en smalle straatjes in de traditionele stijl van deze regio. Je kunt omhoog klimmen naar de ruïnes van het fort van waar je een prachtig uitzicht hebt op de rivier de Ebro, de middeleeuwse brug en de wijngaarden.</cmt>
+    <desc>Charmante dorpje in La Rioja Alta met stenen huizen en smalle straatjes in de traditionele stijl van deze regio. Je kunt omhoog klimmen naar de ruïnes van het fort van waar je een prachtig uitzicht hebt op de rivier de Ebro, de middeleeuwse brug en de wijngaarden.</desc>
+  </wpt>
+  <wpt lat="42.328325" lon="-2.86637">
+    <_data>
+      <index>9</index>
+    </_data>
+    <ele>756.7038582672353</ele>
+    <name>San Millán de la Cogolla</name>
+    <cmt>Dit dorp wordt beschouwd als de wieg van het Castiliaans en is de grootste toeristische trekpleisters van La Rioja vanwege de beroemde kloosters van Yuso en Suso. Sinds 1997 staan zij op de Werelderfgoedlijst van Unesco. De monumentale kloosters werden in de 6e eeuw gesticht door een gemeenschap van monniken die tot op de dag van vandaag voort bestaat. Zowel de gebouwen als de omgeving zijn schitterend, absoluut een bezoek waard. Het dorpje San Millán de la Cogolla ligt in de vallei van de rivier Cárdenas, een zijrivier van de rivier Najerilla, in de uitlopers van de Sierra de la Demanda, onder de besneeuwde toppen van de berg San Lorenzo, de hoogste van La Rioja (2.262 meter).</cmt>
+    <desc>Dit dorp wordt beschouwd als de wieg van het Castiliaans en is de grootste toeristische trekpleisters van La Rioja vanwege de beroemde kloosters van Yuso en Suso. Sinds 1997 staan zij op de Werelderfgoedlijst van Unesco. De monumentale kloosters werden in de 6e eeuw gesticht door een gemeenschap van monniken die tot op de dag van vandaag voort bestaat. Zowel de gebouwen als de omgeving zijn schitterend, absoluut een bezoek waard. Het dorpje San Millán de la Cogolla ligt in de vallei van de rivier Cárdenas, een zijrivier van de rivier Najerilla, in de uitlopers van de Sierra de la Demanda, onder de besneeuwde toppen van de berg San Lorenzo, de hoogste van La Rioja (2.262 meter).</desc>
+  </wpt>
+  <wpt lat="42.324835" lon="-3.016027">
+    <_data>
+      <index>10</index>
+    </_data>
+    <ele>1379.7241666702762</ele>
+    <name>Ezcaray</name>
+    <cmt>Ezcaray heeft een mooi historisch centrum met zijn arcades, pleinen, paleizen en monumenten zoals de kerk van Santa María la Mayor. Ezcaray ligt aan de voet van de Sierra la Demanda, met het skioord Valdezcaray en om het enige restaurant in La Rioja met twee Michelin-sterren, de Echaurren. Het lunchmenu is een aanrader met uiteraard een glaasje Viña Ardanza!  Arco en ik vonden dit stadje wat Zwitsers aandoend, met haar robuuste vakwerkhuizen.</cmt>
+    <desc>Ezcaray heeft een mooi historisch centrum met zijn arcades, pleinen, paleizen en monumenten zoals de kerk van Santa María la Mayor. Ezcaray ligt aan de voet van de Sierra la Demanda, met het skioord Valdezcaray en om het enige restaurant in La Rioja met twee Michelin-sterren, de Echaurren. Het lunchmenu is een aanrader met uiteraard een glaasje Viña Ardanza!  Arco en ik vonden dit stadje wat Zwitsers aandoend, met haar robuuste vakwerkhuizen.</desc>
+  </wpt>
+  <wpt lat="42.440912" lon="-2.953459">
+    <_data>
+      <index>11</index>
+    </_data>
+    <ele>-1450.293730856881</ele>
+    <name>Santo Domingo de la Calzada</name>
+    <cmt>Santo Domingo de la Calzada is bekend als een van de belangrijkste plaatsen op de Franse pelgrimsroute naar Santiago de Compostela. Deze stad groeide als gevolg van het pelgrimshospitaal dat rond de tweede helft van de 12e eeuw door de heilige Santo Domingo werd gesticht. Ook de brug over de rivier de Oja, die de pelgrims op weg hielp, droeg bij tot de ontwikkeling. Santo Domingo de la Calzada werd een belangrijk artistiek, religieus en financieel centrum. Het historisch erfgoed bestaat onder andere uit een imponerende kathedraal en fraaie Plaza España.</cmt>
+    <desc>Santo Domingo de la Calzada is bekend als een van de belangrijkste plaatsen op de Franse pelgrimsroute naar Santiago de Compostela. Deze stad groeide als gevolg van het pelgrimshospitaal dat rond de tweede helft van de 12e eeuw door de heilige Santo Domingo werd gesticht. Ook de brug over de rivier de Oja, die de pelgrims op weg hielp, droeg bij tot de ontwikkeling. Santo Domingo de la Calzada werd een belangrijk artistiek, religieus en financieel centrum. Het historisch erfgoed bestaat onder andere uit een imponerende kathedraal en fraaie Plaza España.</desc>
+  </wpt>
+</gpx>
